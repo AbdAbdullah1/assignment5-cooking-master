@@ -52,7 +52,7 @@ const foodDetails = (detailById) => {
               <div class="foodDetailsContainer">
                <img  src="${x.strMealThumb}" alt="food image">
                  <h2>${x.strMeal}</h2>
-                  <h3>  Ingredien :</h3>
+                  <h3>  Ingrediets :</h3>
                 
                 <p><span>${x.strMeasure1}</span> <span>${x.strIngredient1}</span> </p>
                   <p><span ${x.strMeasure2}</span> <span>${x.strIngredient2}</span> </p>
